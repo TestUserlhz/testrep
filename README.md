@@ -41,4 +41,12 @@
 [1]:https://www.github.com "GitHub官方网站"
 [2]:https://git-scm.com/downloads "Git下载"
 
+
+测试插入本地图片
+
+![配图](C:/Users/h1156/Desktop/测试配图.jpg "图片标题")
+
+
+
+
 I
