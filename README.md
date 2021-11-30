@@ -46,6 +46,40 @@
 
 ![测试配图.jpg](https://i.loli.net/2021/11/30/ziLFxZXaA3pC5qt.jpg)
 
+在文章中插入特定代码
+
+```bash
+sudo apt-get install git
+```
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+
+  printf("c语言...\n");
+  return 0;
+
+}
+```
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main(void)
+{
+
+  cout << "测试数据 " << endl;
+
+}
+```
+
+
+
+
 
 
 
