@@ -44,7 +44,7 @@
 
 测试插入本地图片
 
-![配图](C:/Users/h1156/Desktop/测试配图.jpg "图片标题")
+![测试配图.jpg](https://i.loli.net/2021/11/30/ziLFxZXaA3pC5qt.jpg)
 
 
 
